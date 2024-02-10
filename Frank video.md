@@ -1,4 +1,4 @@
-工程師移民路徑選擇
+[工程師移民路徑選擇](https://www.youtube.com/watch?v=7ChMDkdC8sw&list=PLGMrzTnCOjdRXjE9pQkYrN9sKRCYZJGoQ&index=7)
 
 優勢
 > 學校選擇多、選項(碩士、post-graduated)也較多
@@ -24,9 +24,27 @@
 1. post-graduate 讀兩年，建議安省(waterloo, 渥太華)，畢業工簽申請EE或者省提民
 2. 配偶讀書、利用開放工簽工作，申請EE或者省提民
 
-
+ 
 
 
 
 
 Other 
+
+加拿大移民法第12條，移民三大類
+家庭團聚(Family Sponsorship)
+- 配偶、子女、父母、祖父母
+- 擔保人的收入要求
+
+難民與庇護(Refugee and protected person)
+- 因宗教、政治受到迫害等原因
+
+經濟類(Economic Class)
+- 聯邦、省提民都在此類
+- economically established
+
+
+
+
+
+![[Pasted image 20240210151506.png]]
