@@ -7,13 +7,13 @@
    高中以上學歷，英文CLB7、過去十年工作中至少一年NOC0AB工作
    需額外滿足Selection factor point grid 67分
    按照往年經驗CRS至少要475才有可能被撈取
-1. 加拿大經驗類CEC(Canadian Experience class)
+2. 加拿大經驗類CEC(Canadian Experience class)
    CLB5 or CLB7
    三年類，在加拿大有NOC 0AB中工作滿一年
-2. 聯邦技工移民FST(Federal Skilled Trades Program)
+3. 聯邦技工移民FST(Federal Skilled Trades Program)
    CLB5
    5年內有2年NOC B類工作經驗，且需要雇主聘書
-3. 部分省提民項目(A portion of the Provincial N)ominee Programs, PNP)
+4. 部分省提民項目(A portion of the Provincial N)ominee Programs, PNP)
    並非所有省提民都可以透過EE加速
 
 每月邀請一次或者數次，會從不同四類項目中挑取人選
@@ -46,6 +46,6 @@ NOC代碼為四類數字
 第二位是4/5，則為NOC C類
 第二位是6/7，則為NOC D類
 
-如2171，因第一位不是0，而第二位是1，所以是。
+如2171，因第一位不是0，而第二位是1，所以是A類。
 
 [ref](https://www.youtube.com/watch?v=kYwCqWBX7XQ&list=PLGMrzTnCOjdRXjE9pQkYrN9sKRCYZJGoQ&index=2)
