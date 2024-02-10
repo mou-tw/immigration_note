@@ -4,6 +4,8 @@
 
  
 
+
+
 RNIP
 
 除了海洋四省以及魁北克省以外的省分開放，直接跳過省級移民機構，直接面向聯邦移民部
@@ -21,7 +23,18 @@ C/D類，CLB4
 社區的雇主信
 
 
+NorthBay
+https://northbayrnip.ca/
 
+
+Sudbury
+https://investsudbury.ca/why-sudbury/newcomers/rnip/
+
+Thunder Bay
+https://gotothunderbay.ca/why-thunder-bay/rural-and-northern-immigration-pilot/
+
+vernon
+https://rnip-vernon-northok.ca/applicants/
 
 ![[Pasted image 20240210233610.png]]
 
