@@ -45,4 +45,6 @@ https://rnip-vernon-northok.ca/applicants/
 
 
 
-[ref](https://www.youtube.com/watch?v=VFGx7TOVw2Q&list=PLGMrzTnCOjdSKBRfuk5NEW2e7DaliGqlH&index=5)
+[RNIP ref](https://www.youtube.com/watch?v=VFGx7TOVw2Q&list=PLGMrzTnCOjdSKBRfuk5NEW2e7DaliGqlH&index=5)
+[AIPP ref](https://www.youtube.com/watch?v=hXovGEOTH5k&list=PLGMrzTnCOjdSKBRfuk5NEW2e7DaliGqlH&index=10)
+
