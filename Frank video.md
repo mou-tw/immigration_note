@@ -54,3 +54,9 @@ Other
 
 
 ![[Pasted image 20240210151506.png]]![[Pasted image 20240210151519.png]]
+
+
+
+
+[英語考試](https://www.youtube.com/watch?v=4ECoyXiN64Y)
+
