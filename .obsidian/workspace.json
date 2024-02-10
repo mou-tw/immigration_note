@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "25b3ae492d854c6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EE, CRS, NOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "找工作.md",
+                "file": "EE, CRS, NOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "找工作.md",
+                "file": "EE, CRS, NOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "找工作.md"
+                "file": "EE, CRS, NOC.md"
               }
             }
           }
@@ -191,10 +203,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98d62bf8444441b7",
+  "active": "25b3ae492d854c6e",
   "lastOpenFiles": [
-    "LMIA.md",
     "找工作.md",
+    "EE, CRS, NOC.md",
+    "LMIA.md",
     "CLB(Canadian Language Benchmark) ranking.md",
     "Pasted image 20240210153807.png",
     "Frank video.md",
