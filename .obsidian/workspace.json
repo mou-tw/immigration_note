@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52e37800b1469948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLB(Canadian Language Benchmark) ranking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frank video.md",
+                "file": "CLB(Canadian Language Benchmark) ranking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frank video.md",
+                "file": "CLB(Canadian Language Benchmark) ranking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frank video.md"
+                "file": "CLB(Canadian Language Benchmark) ranking.md"
               }
             }
           }
@@ -167,11 +179,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa065822e28af229",
+  "active": "52e37800b1469948",
   "lastOpenFiles": [
+    "Pasted image 20240210153807.png",
+    "Frank video.md",
+    "CLB(Canadian Language Benchmark) ranking.md",
     "Pasted image 20240210151519.png",
     "Pasted image 20240210151506.png",
-    "文件準備.md",
-    "Frank video.md"
+    "文件準備.md"
   ]
 }
