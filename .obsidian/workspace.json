@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LMIA.md",
+                "file": "找工作.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LMIA.md",
+                "file": "找工作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LMIA.md",
+                "file": "找工作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LMIA.md"
+                "file": "找工作.md"
               }
             }
           }
@@ -193,8 +193,9 @@
   },
   "active": "98d62bf8444441b7",
   "lastOpenFiles": [
-    "CLB(Canadian Language Benchmark) ranking.md",
     "LMIA.md",
+    "找工作.md",
+    "CLB(Canadian Language Benchmark) ranking.md",
     "Pasted image 20240210153807.png",
     "Frank video.md",
     "Pasted image 20240210151519.png",
