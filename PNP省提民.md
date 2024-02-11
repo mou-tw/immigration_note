@@ -18,10 +18,17 @@ ALBERTA
 
 
 
+
+## 海洋四省(The Maritimes)
+![[Pasted image 20240211110040.png]]
+
+![[Pasted image 20240211110113.png]]
 Nova Scotia
 
+新布倫瑞克省
 
-
+紐芬蘭和拉不拉多省
+愛德華王子島
 
 [ref](https://www.youtube.com/watch?v=0ubrkOhd-E8&list=PLGMrzTnCOjdSgYh6726zwh-pHRd0-28x9)
 
