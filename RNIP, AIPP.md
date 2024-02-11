@@ -9,6 +9,9 @@ AIPP
 
 ![[Pasted image 20240211131959.png]]
 
+Nova Scotia desinated employee list
+https://novascotiaimmigration.com/wp-content/uploads/Designated_AIP_employers.pdf
+
 
 RNIP
 
