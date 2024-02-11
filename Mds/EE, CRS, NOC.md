@@ -1,6 +1,8 @@
 ## EE(Express Entry)
 聯邦技術移民的主力方式，線上申請資料，在EE申請的時候同時會發送簡歷到JOB BANK系統，正常狀況會在4-6個月完成，同時也可以結合省提民，透過省提名的加分在EE中加分。
 
+![[Pasted image 20240210151506.png]]
+
 
 可以通過EE完成的移民項目
 1. 聯邦類技術移民FSW(Federal Skilled Worker Program)

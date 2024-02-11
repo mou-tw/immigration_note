@@ -19,9 +19,6 @@ OWP開放工簽獲取途徑
 
 
 
-聯邦,省提民Overlook
-[[聯邦,省提民 Overlook]]
-
 What is EE, CRS, NOC?
 [[EE, CRS, NOC]]
 
@@ -30,6 +27,9 @@ CLB英文能力鑑定與考試選擇
 
 工程師移民選擇
 [[Software Engineer Immigration Path]]
+
+省提名
+[[PNP省提民選擇]]
 
 RNIP&AIP
 [[RNIP, AIPP]]
