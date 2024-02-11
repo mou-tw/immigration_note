@@ -14,6 +14,8 @@ AIPP
 Nova Scotia desinated employee list
 https://novascotiaimmigration.com/wp-content/uploads/Designated_AIP_employers.pdf
 
+https://www.welcomenb.ca/content/dam/wel-bien/pdf/designated-employers-employeurs-designes.pdf
+https://www.princeedwardisland.ca/en/information/office-of-immigration/atlantic-immigration-program-designated-employers
 
 RNIP
 
