@@ -23,6 +23,8 @@ ALBERTA
 ![[Pasted image 20240211110040.png]]
 
 ![[Pasted image 20240211110113.png]]
+快速通道為給CLB7加快申請速度
+
 ![[Pasted image 20240211111249.png]]
 Nova Scotia
 
