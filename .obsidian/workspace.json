@@ -86,21 +86,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ec17c4f40cae9187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PNP省提民.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -166,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PNP省提民.md",
+                "file": "RNIP, AIPP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PNP省提民.md",
+                "file": "RNIP, AIPP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PNP省提民.md"
+                "file": "RNIP, AIPP.md"
               }
             }
           }
@@ -227,22 +215,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec17c4f40cae9187",
+  "active": "54d06b445f36fb6b",
   "lastOpenFiles": [
-    "Pasted image 20240211111249.png",
-    "Pasted image 20240211110113.png",
-    "Pasted image 20240211110040.png",
+    "Picx/Pasted image 20240211131959.png",
+    "Picx/Pasted image 20240210151506.png",
+    "RNIP, AIPP.md",
+    "Picx",
+    "PNP省提民.md",
+    "Picx/Pasted image 20240211111249.png",
+    "Picx/Pasted image 20240211110113.png",
+    "Picx/Pasted image 20240211110040.png",
     "文件準備.md",
     "Job.md",
-    "PNP省提民.md",
-    "RNIP, AIPP.md",
-    "Pasted image 20240210233610.png",
+    "Picx/Pasted image 20240210233610.png",
     "CLB(Canadian Language Benchmark) ranking.md",
     "EE, CRS, NOC.md",
     "LMIA.md",
-    "Pasted image 20240210153807.png",
+    "Picx/Pasted image 20240210153807.png",
     "Frank video.md",
-    "Pasted image 20240210151519.png",
-    "Pasted image 20240210151506.png"
+    "Picx/Pasted image 20240210151519.png"
   ]
 }
