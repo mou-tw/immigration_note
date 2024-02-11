@@ -2,7 +2,7 @@
 特色是不需要LMIA，只要<font color=#FF0000>雇主發出job offer</font>，就可以到該地方工作
 走聯邦僅需要6個月
 
-AIPP
+## AIPP
 已經在2022已經改為AIP，是個正式項目
 目前為海洋四省的主力項目
 全部都是雇主驅動
@@ -11,13 +11,16 @@ AIPP
 
 ![[Pasted image 20240211131959.png]]
 
-Nova Scotia desinated employee list
+### AIP desinated  employee list
+Nova Scotia 
 https://novascotiaimmigration.com/wp-content/uploads/Designated_AIP_employers.pdf
-
+New Brunswick 
 https://www.welcomenb.ca/content/dam/wel-bien/pdf/designated-employers-employeurs-designes.pdf
+Princd Edward Island
 https://www.princeedwardisland.ca/en/information/office-of-immigration/atlantic-immigration-program-designated-employers
 
-RNIP
+
+## RNIP
 
 除了海洋四省以及魁北克省以外的省分開放，直接跳過省級移民機構，直接面向聯邦移民部
 社區驅動型以及雇主驅動型
