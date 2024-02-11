@@ -7,6 +7,8 @@ AIPP
 目前為海洋四省的主力項目
 全部都是雇主驅動
 
+[官網](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/atlantic-immigration/how-to-immigrate.html)
+
 ![[Pasted image 20240211131959.png]]
 
 Nova Scotia desinated employee list
