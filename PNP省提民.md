@@ -23,6 +23,7 @@ ALBERTA
 ![[Pasted image 20240211110040.png]]
 
 ![[Pasted image 20240211110113.png]]
+![[Pasted image 20240211111249.png]]
 Nova Scotia
 
 新布倫瑞克省
