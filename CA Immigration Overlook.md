@@ -11,10 +11,34 @@
 >聯邦、省提民都在此類
 >economically established
 
+OWP開放工簽獲取途徑
+- 畢業後的PGWP
+  畢業後180天內申請
+  最長3年，且一生一次
+- 夫妻雙打的OWP
 
-英語考試選擇
-[英語考試](https://www.youtube.com/watch?v=4ECoyXiN64Y)
+
+
+聯邦,省提民Overlook
+[[聯邦,省提民 Overlook]]
+
+What is EE, CRS, NOC?
+[[EE, CRS, NOC]]
+
+CLB英文能力鑑定與考試選擇
+[[CLB(Canadian Language Benchmark) ranking]]
 
 工程師移民選擇
 [[Software Engineer Immigration Path]]
 
+RNIP&AIP
+[[RNIP, AIPP]]
+
+LMIA
+[[LMIA]]
+
+Job relatived
+[[Job]]
+
+文件類準備
+[[文件準備]]
