@@ -42,3 +42,8 @@ Job relatived
 
 文件類準備
 [[文件準備]]
+
+
+
+
+https://f100clt.blogspot.com/2023/12/2.html?fbclid=IwAR0Z0rWpyT--rwvVKyLA6VqALDHKW4Pqjz7NEvmYlOKZSSB2EFekZfg_rFs
