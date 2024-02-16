@@ -24,9 +24,15 @@ https://www.canada.ca/en/employment-social-development/services/foreign-workers.
    Informative work experience section
    effort in building meaningful connections
 2. indexing with soft skills
+   [CNBC Summary of Soft Skills](https://www.cnbc.com/2019/11/21/10-top-soft-skills-to-master-for-2020-if-you-want-a-raise-promotion-or-new-job.html)
+   [Udemy Report](https://business.udemy.com/resources/5-workplace-learning-trends-2020/thanks/)
    
-4. measurable metrics
-5. 475-600 words
+3. measurable results
+   
+2. 475-600 words with right words
+   copy the JD into [word cloud tool to generate relatived words](https://monkeylearn.com/word-cloud/)
+   
+   
 6. not included fluffy contents(buzzwords, cliches, incorrect pronouns)
 
 
