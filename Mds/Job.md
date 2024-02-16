@@ -46,3 +46,14 @@ https://www.canada.ca/en/employment-social-development/services/foreign-workers.
 
 ref
 [Write an Incredible Resume: 5 Golden Rules!](https://www.youtube.com/watch?v=Tt08KmFfIYQ)
+
+
+Resume key point
+1. experience first
+
+```
+template
+[company] - [position];[location]   [start-time] - [end-time]
+
+```
+
