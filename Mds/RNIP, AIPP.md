@@ -12,6 +12,7 @@
 ![[Pasted image 20240211131959.png]]
 
 ### AIP desinated  employee list
+https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/atlantic-immigration/hire-immigrant/get-designated.html
 Nova Scotia 
 https://novascotiaimmigration.com/wp-content/uploads/Designated_AIP_employers.pdf
 New Brunswick 
