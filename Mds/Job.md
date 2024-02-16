@@ -19,4 +19,20 @@ https://www.canada.ca/en/employment-social-development/services/foreign-workers.
 
 
 ## Resume tips
+1. with Linkedin Profile
+   Professinoal headshot and linkedin banner
+   Informative work experience section
+   effort in building meaningful connections
+2. indexing with soft skills
+   
+4. measurable metrics
+5. 475-600 words
+6. not included fluffy contents(buzzwords, cliches, incorrect pronouns)
 
+
+
+
+
+
+ref
+[Write an Incredible Resume: 5 Golden Rules!](https://www.youtube.com/watch?v=Tt08KmFfIYQ)
