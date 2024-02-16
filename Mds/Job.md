@@ -50,10 +50,19 @@ ref
 
 Resume key point
 1. experience first
-
 ```
 template
 [company] - [position];[location]   [start-time] - [end-time]
+● describe
+● describe
 
 ```
+
+![[Pasted image 20240216234409.png]]
+
+2. communicating your accompolishment
+   ![[Pasted image 20240216234811.png]]
+
+3. tailoring resume for each application
+
 
