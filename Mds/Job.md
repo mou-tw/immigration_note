@@ -28,12 +28,16 @@ https://www.canada.ca/en/employment-social-development/services/foreign-workers.
    [Udemy Report](https://business.udemy.com/resources/5-workplace-learning-trends-2020/thanks/)
    
 3. measurable results
+   X-Y-Z formula
+   Accomplished [X] as measured by [Y], by doing [Z]
+   >ex: marketing manager
+   >Drove 2500 organic sign-ups to our monthly newsletter by A/B testing contnet layout and collaborating with co-marketing partners, representing a 43% quarter-on-quarter increase.
    
-2. 475-600 words with right words
+4. 475-600 words with right words
    copy the JD into [word cloud tool to generate relatived words](https://monkeylearn.com/word-cloud/)
-   
-   
-6. not included fluffy contents(buzzwords, cliches, incorrect pronouns)
+ 
+5. not included fluffy contents(buzzwords, cliches, incorrect pronouns)
+   google "resume cliches and buzwords" and do not included it
 
 
 
