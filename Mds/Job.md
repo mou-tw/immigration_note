@@ -20,7 +20,7 @@ https://www.canada.ca/en/employment-social-development/services/foreign-workers.
 
 ## Resume tips
 1. with Linkedin Profile
-   Professinoal headshot and linkedin banner
+   [Professinoal headshot and linkedin banner](https://www.canva.com/p/templates/EAE2cQaUHVA-black-minimal-motivation-quote-linkedin-banner/)
    Informative work experience section
    effort in building meaningful connections
 2. indexing with soft skills
